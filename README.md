@@ -27,23 +27,37 @@ A full-stack task management application built with MongoDB, Express, React, and
 ```bash
 git clone https://github.com/your-username/mern-task-manager.git
 cd mern-task-manager
+```
+
+---
 
 ## Backend
+
+```bash
 cd backend
 npm install
 npm start
+```
+
+----
 
 ## Frontend
+
+```bash
 cd frontend
 npm install
 npm start
+```
 
 ---
 
 ## Environmental Variables
+
+```bash
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
+```
 
 ---
 
