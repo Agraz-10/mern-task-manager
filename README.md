@@ -62,12 +62,15 @@ PORT=5000
 ---
 
 ## API
+
+```ini
 POST /api/auth/signup
 POST /api/auth/login
 GET /api/tasks
 POST /api/tasks
 PUT /api/tasks/:id
 DELETE /api/tasks/:id
+```
 
 ---
 
